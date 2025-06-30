@@ -1,25 +1,23 @@
 import Image from "next/image";
 import Link from "next/link";
 
-const paymentUrl = "https://rzp.io/l/nixrajput-project-payment";
+// const paymentUrl = "https://rzp.io/l/nixrajput-project-payment";
 
 function RazorPayButton() {
   return (
     <Link
-      className="app__filled_btn min-w-[10rem] gap-2"
-      href={paymentUrl}
-      target="_blank"
+      className="app__filled_btn min-w-[10rem] gap-2 flex items-center"
+      href="/serviceUnavilable"
     >
       <Image
         src="/images/razorpay-logo.png"
-        alt={`razor-pay-button`}
+        alt="razor-pay-button"
         width={100}
         height={100}
         className="h-[1.5rem] w-auto aspect-square"
         style={{ filter: "brightness(0) invert(1)" }}
       />
-
-      <div className="flex flex-col">
+      <div className="flex flex-col text-left">
         <p className="font-bold text-base/none">Pay Now</p>
         <p
           className="text-xs text-[var(--textColor80)]"
