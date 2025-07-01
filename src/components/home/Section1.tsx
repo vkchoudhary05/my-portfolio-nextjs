@@ -7,6 +7,7 @@ import Row from "@/components/core/Row";
 import { FlipWords } from "@/components/common/FlipWords";
 import socialLinks from "@/data/socialLinks";
 import TalkButton from "./ui/TalkButton";
+import ResumeButton from "./ui/ResumeButton";
 
 const HomeSection1 = ({ id }: Readonly<{ id: string }>) => {
   return (
@@ -29,9 +30,11 @@ const HomeSection1 = ({ id }: Readonly<{ id: string }>) => {
             Full Stack Developer 💻  🛠️ Open Source 🌍
           </p>
 
-          <div className="gap-4 mt-12 lg:mt-16 flex flex-col md:flex-row">
-            <TalkButton />
-          </div>
+       <div className="gap-5 mt-12 lg:mt-16 flex flex-col md:flex-row">
+  <TalkButton />
+  <ResumeButton />
+</div>
+
         </Column>
 
         <div className="mt-12 lg:mt-16 w-full flex flex-col items-center">
