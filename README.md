@@ -1,4 +1,4 @@
-<!-- # Portfolio Website with Next.js and Sass
+# Portfolio Website with Next.js and Sass
 
 This repository contains the source code for a portfolio website built using Next.js and Sass. This README.md file provides an overview of the project and instructions on how to set it up and customize it for your own use.
 
@@ -50,7 +50,7 @@ Follow these instructions to get the project up and running on your local machin
 
 You need to have the following software installed on your computer:
 
-- [Node.js](https://nodejs.org/) (LTS version recommended)
+- [Node.js](https://nodejs.org/) (LTS version recommended)A\
 - [npm](https://www.npmjs.com/), [pnpm](https://pnpm.io/) or [Yarn](https://yarnpkg.com/) package manager
 
 ### Installation
@@ -171,11 +171,4 @@ Thank you for considering sponsoring my work!
 [repo]: https://github.com/nixrajput/portfolio-nextjs
 [issues]: https://github.com/nixrajput/portfolio-nextjs/issues
 [pulls]: https://github.com/nixrajput/portfolio-nextjs/pulls
-[license]: https://github.com/nixrajput/portfolio-nextjs/blob/master/LICENSE.md --> -->
-  
-
-
-
-
-
-  heyyyyyyyyyy
+[license]: https://github.com/nixrajput/portfolio-nextjs/blob/master/LICENSE.md -->
