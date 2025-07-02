@@ -37,17 +37,17 @@ const projects: IProjectItem[] = [
   //   url: "https://github.com/nixrajput/video-calling-app-flutter/releases",
   //   tags: ["Flutter", "Dart", "GetX", "Agora SDK"],
   // },
-  // {
-  //   id: "social-media-api-nodejs",
-  //   title: "Social Media API",
-  //   description:
-  //     "A RESTful API developed using Node.js, Express.js, and MongoDB to integrate backend and frontend with ease.",
-  //   icon: "/skills/nestjs.svg",
-  //   repoType: RepoType.Public,
-  //   projectType: ProjectType.Personal,
-  //   githubUrl: "https://github.com/nixrajput/social-media-api-nodejs",
-  //   tags: ["Node.js", "Express.js", "MongoDB", "WebSocket"],
-  // },
+   {
+    id: "Book Management system -api-nodejs",
+    title: "Book Management System API",
+    description:
+      "A RESTful API developed using Node.js, Express.js, and MongoDB to integrate backend and frontend with ease.",
+    icon: "/skills/nodejs.svg",
+    repoType: RepoType.Public,
+    projectType: ProjectType.Personal,
+    githubUrl: "https://github.com/vkchoudhary05/Book-Management-03",
+    tags: ["Node.js", "Express.js", "MongoDB", "WebSocket"],
+  },
   // {
   //   id: "grocery-list-maker-app-flutter",
   //   title: "Grocery List Maker App",
@@ -62,7 +62,7 @@ const projects: IProjectItem[] = [
   // },
    {
     id: "e-commerce-api-nodejs",
-    title: "E-commerce API",
+    title: "E-commerce Store API",
     description:
       "A RESTful API developed using Node.js, Express.js, MongoDB, and Stripe to integrate e-commerce backend.",
     icon: "/skills/nodejs.svg",
