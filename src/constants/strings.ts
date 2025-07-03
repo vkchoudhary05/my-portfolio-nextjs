@@ -23,13 +23,7 @@ class Strings {
   static primaryEmailLink = "iamvivekbaliyan07@gmail.com";
   static primaryEmail = "iamvivekbaliyan07@gmail.com";
 
-  // static buyMeACoffee = "BuyMeACoffee";
-  // static buyMeACoffeeLink = "https://buymeacoffee.com/nixrajput";
-  // static buyMeACoffeeUsername = "nixrajput";
 
-  // static koFi = "Ko-Fi";
-  // static koFiLink = "https://ko-fi.com/nixrajput";
-  // static koFiUsername = "nixrajput";
 
   static fullName = "Vivek Kumar";
   static shortName = "Vivek";
