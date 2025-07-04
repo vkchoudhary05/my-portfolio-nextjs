@@ -14,21 +14,7 @@ const experiences: IExperienceItem[] = [
       "Adhering to clean code practices and modern development techniques.",
     ],
   },
-  // {
-  //   designation: "Full Stack Developer",
-  //   company: "Merito",
-  //   startDate: "Feb 2023",
-  //   endDate: "Jul 2024",
-  //   isCurrentJob: false,
-  //   location: "Pune, India",
-  //   description: [
-  //     "Developed over 5 web applications with seamless backend API integration.",
-  //     "Streamlined workflows by eliminating redundant data, boosting efficiency.",
-  //     "Improved website loading time by 80% through image optimization, minimizing main-thread work, and implementing SEO strategies.",
-  //     "Resolved 100+ bugs and conducted thorough code reviews.",
-  //     "Demonstrated expertise in both backend and frontend development.",
-  //   ],
-  // },
+
   {
    designation: "Frontend Development Intern",
   company: "Teeoff Technologies Pvt. Ltd.",

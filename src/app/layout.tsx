@@ -70,12 +70,12 @@ export const metadata: Metadata = {
     "Vivek",
     "vivek07",
     "vivek-kumar",
-    "rajput nikhil",
-    "founder of nixlab",
-    "nixlab founder",
+    // "rajput nikhil",
+    // "founder of nixlab",
+    // "nixlab founder",
     "full stack developer",
     "indian developer",
-    "nixrajput github",
+    // "nixrajput github",
   ],
 };
 
