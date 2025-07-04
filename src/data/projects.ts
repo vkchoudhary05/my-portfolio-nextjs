@@ -39,6 +39,18 @@ const projects: IProjectItem[] = [
     tags: ["Next.js", "Sass", "Web Development"],
   },
 
+    {
+    id: "Url-Shortener",
+    title: "Url-Shortener Project",
+    description:
+      "This repository contains the source code for a portfolio website built using Next.js and Sass.",
+    icon: "/skills/nextjs.png",
+    repoType: RepoType.Public,
+    projectType: ProjectType.Personal,
+    githubUrl: "https://github.com/vkchoudhary05/my-portfolio-nextjs",
+    tags: ["Next.js", "Sass", "Web Development"],
+  },
+
 
  ];
 export default projects;
