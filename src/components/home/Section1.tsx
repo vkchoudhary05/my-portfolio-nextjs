@@ -12,7 +12,7 @@ import ResumeButton from "./ui/ResumeButton";
 const HomeSection1 = ({ id }: Readonly<{ id: string }>) => {
   return (
     <ResponsiveBox
-      classNames="dark:bg-[var(--bgColor)] bg-[var(--bgColor)] dark:bg-grid-white/[0.1] bg-grid-white/[0.1] min-h-screen items-center justify-center relative overflow-hidden rounded-md"
+      classNames="bg-[var(--bgColor)] bg-[var(--bgColor)]  min-h-screen items-center justify-center relative overflow-hidden rounded-md"
       id={id}
     >
       <ConstrainedBox classNames="px-4 py-8 pt-16 z-20 items-center justify-center">
