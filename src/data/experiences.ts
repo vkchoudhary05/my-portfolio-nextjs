@@ -1,35 +1,40 @@
 import { IExperienceItem } from "@/types";
 
 const experiences: IExperienceItem[] = [
-  {
-    designation: "FUll Stack Developer",
-    company: "SarvoBharat Technologies pvt. Ltd.",
-    startDate: "May 2025",
-    isCurrentJob: true,
-    location: "Pune, India",
-    description: [
-      "Currently working on developing innovative software solutions.",
-      "Contributing to large-scale projects with a focus on performance optimization.",
-      "Collaborating closely with cross-functional teams to ensure product quality.",
-      "Adhering to clean code practices and modern development techniques.",
-    ],
-  },
+{
+  designation: "Assistant Professor",
+  company: "Roorkee Adventist College, Roorkee, Uttarakhand, India (Affiliated to Hemwati Nandan Bahuguna Garhwal University)",
+  startDate: "May 2025",
+  isCurrentJob: true,
+  location: "Roorkee, India",
+  description: [
+    "Teaching undergraduate B.Sc. Computer Science students with a focus on Web Development and core computing subjects.",
+    "Delivering lectures and practical sessions on HTML, CSS, JavaScript, and modern web development practices.",
+    "Guiding students in academic projects, assignments, and laboratory work related to software and web technologies.",
+    "Designing course materials, lesson plans, and assessments in alignment with university curriculum standards.",
+    "Mentoring students on programming fundamentals, problem-solving skills, and academic growth.",
+    "Participating in academic activities, evaluations, and continuous curriculum improvement initiatives."
+  ],
+},
 
-  {
-   designation: "Frontend Development Intern",
+
+ {
+  designation: "Full Stack Developer Intern",
   company: "Teeoff Technologies Pvt. Ltd.",
   startDate: "Nov 2024",
   endDate: "May 2025",
   isCurrentJob: false,
   location: "Gurgaon, India",
   description: [
-    "Developed and maintained dynamic web applications using React.js and Next.js.",
-    "Built reusable UI components with a focus on performance, responsiveness, and accessibility.",
-    "Integrated RESTful APIs to display real-time data and enable interactive user experiences.",
-    "Collaborated with designers and backend developers to translate designs into functional interfaces.",
-    "Optimized web pages for faster load times and better SEO using Next.js features like SSR and dynamic routing."
-  ]
-  },
+    "Developed end-to-end web applications with a strong focus on JavaScript across both frontend and backend layers.",
+    "Built interactive user interfaces using React.js and Next.js, leveraging modern JavaScript (ES6+) concepts.",
+    "Implemented server-side logic and API integrations using JavaScript-based architectures.",
+    "Consumed and managed RESTful APIs, handling asynchronous data flows and state management effectively.",
+    "Optimized application performance through efficient JavaScript execution, code splitting, and component reusability.",
+    "Collaborated with cross-functional teams to design, develop, and debug full-stack features in an agile environment."
+  ],
+},
+
 {
   designation: "Backend Development Trainee",
   company: "FunctionUp Pvt. Ltd.",

@@ -27,7 +27,7 @@ const HomeSection1 = ({ id }: Readonly<{ id: string }>) => {
             />
           </div>
           <p className="text-sm/normal md:text-base/normal dark:text-[var(--textColorLight)] text-[var(--textColorLight)]">
-            Full Stack Developer 💻  🛠️ Open Source 🌍
+           Research-oriented Full Stack Developer with interests in web security, modern web architectures, and applied software engineering💻  🛠️ Open Source 🌍
           </p>
 
        <div className="gap-5 mt-12 lg:mt-16 flex flex-col md:flex-row">
