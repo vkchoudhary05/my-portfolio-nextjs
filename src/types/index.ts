@@ -41,6 +41,7 @@ export interface IProjectItem {
   id: string;
   title: string;
   description: string;
+  researchDescription: string;
   icon: string;
   repoType: RepoType;
   projectType?: ProjectType;
