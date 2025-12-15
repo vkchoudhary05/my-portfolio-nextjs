@@ -2,7 +2,7 @@ import { ISkillListItem, SkillLevel } from "@/types";
 
 const skills: ISkillListItem[] = [
   {
-    title: "Programming Languages",
+    title: "Programming Foundations",
     items: [
       {
         title: "JavaScript",
@@ -18,7 +18,7 @@ const skills: ISkillListItem[] = [
     ],
   },
   {
-    title: "Frontend Development",
+    title: "Client-Side Web Systems",
     items: [
       {
         title: "Next.js",
@@ -53,7 +53,7 @@ const skills: ISkillListItem[] = [
     ],
   },
   {
-    title: "Backend Development",
+    title: "Server-Side Systems & APIs",
     items: [
       {
         title: "Node.js",
@@ -75,7 +75,7 @@ const skills: ISkillListItem[] = [
   },
 
   {
-    title: "Database Management",
+    title: "Data Management Systems",
     items: [
       {
         title: "MongoDB",
@@ -96,7 +96,7 @@ const skills: ISkillListItem[] = [
   },
   
   {
-    title: "Miscellaneous",
+    title: "Development Environment & Tooling",
     items: [
       {
         title: "windows",
@@ -117,7 +117,7 @@ const skills: ISkillListItem[] = [
     ],
   },
   {
-    title: "Nontechnical Skills",
+    title: "Research & Academic Skills",
     items: [
       {
         title: "Problem Solving",

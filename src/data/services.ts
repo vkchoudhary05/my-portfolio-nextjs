@@ -4,7 +4,7 @@ const services: IServiceItem[] = [
 
   {
     id: 2,
-    title: "Web Development",
+    title: "Web Systems & Architectures",
     icons: [
       "/skills/redux.svg",
       "/skills/react.svg",
@@ -14,11 +14,11 @@ const services: IServiceItem[] = [
     ],
     shortDescription: "I build visually stunning and user-friendly websites.",
     description:
-      "I deliver stunning, user-friendly websites to establish your online presence. From simple sites to complex e-commerce platforms, I provide tailored solutions using the latest frameworks and technologies for a seamless, responsive, and SEO-friendly browsing experience. Enhance your online identity with quality.",
+      "Design and implementation of modern web systems with emphasis on modular architecture, responsiveness, and maintainability. Focus areas include client–server interaction, rendering strategies, and standards-compliant front-end development using contemporary web technologies.",
   },
   {
     id: 3,
-    title: "Backend Development",
+    title: "Backend Systems & APIs",
     icons: [
       "/skills/socket-io.png",
       "/skills/docker.png",
@@ -28,11 +28,11 @@ const services: IServiceItem[] = [
     ],
     shortDescription: "I create robust and scalable backend infrastructures.",
     description:
-      "I enhance digital applications with robust, scalable backend infrastructures. I develop efficient database structures, APIs, and configure servers for optimal performance, security, and scalability, ensuring your applications handle high traffic and complex data management seamlessly. Rely on strong backend solutions.",
+      "Development of backend systems with a focus on API design, data flow, and scalability. Experience includes building and integrating RESTful services, managing server-side logic, and ensuring secure and efficient communication between system components.",
   },
   {
     id: 4,
-    title: "Product Strategy",
+    title: "System Design & Problem Analysis",
     icons: [
       "/skills/git.svg",
       "/images/collaboration.png",
@@ -43,12 +43,12 @@ const services: IServiceItem[] = [
     shortDescription:
       "I define goals, target audiences, and roadmap for success.",
     description:
-      "I collaborate to define clear goals, target audiences, and a success roadmap. My expertise in product ideation and market analysis ensures your product meets user needs and aligns with your business strategy for long-term growth and full potential realization. Drive your product's success with strategic planning.",
+      "Analytical approach to problem formulation, system requirements, and solution design. Experience in translating abstract problem statements into structured software systems, with attention to usability, constraints, and long-term maintainability.",
   },
 
   {
     id: 6,
-    title: "Database Management",
+    title: "Data Management & Storage Systems",
     icons: [
       "/skills/mysql.svg",
       "/skills/postgresql.svg",
@@ -58,7 +58,7 @@ const services: IServiceItem[] = [
     ],
     shortDescription: "I manage and optimize your database systems.",
     description:
-      "I manage and optimize your database systems for performance, reliability, and scalability. With expertise in SQL and NoSQL databases, I design schemas, write complex queries, and implement best practices for data integrity and security. Ensure your data is managed effectively and efficiently.",
+      "  Design and management of relational and non-relational data systems with emphasis on data integrity, query optimization, and secure storage. Experience includes schema design, efficient data access patterns, and performance-aware database usage.",
   },
 ];
 
